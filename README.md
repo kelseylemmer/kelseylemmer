@@ -12,9 +12,10 @@
   <img src="./B090F692-28E5-4A7D-9CF3-299F0F941D45.jpeg" alt="kelseylemmer" align="right" width="400" height="400"/>
 </a>
 
-🍊 I’m currently living in Bradenton, Florida <br>
-👩🏻‍💻 I’m currently obtaining my certification from Nashville Software School. <br>
-🌐 I’m currently working on growing my server side knowledge.
+IM CURRENTLY...
+🍊 living in Bradenton, Florida <br>
+👩🏻‍💻 obtaining my certification from Nashville Software School <br>
+🌐 working on growing my server side knowledge
 
 
 
