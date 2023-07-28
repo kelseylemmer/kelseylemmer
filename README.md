@@ -27,7 +27,12 @@ CONST KELSEY = {
 ---
 🔗 <a href="https://www.linkedin.com/in/kelsey-lemmer" target="_blank">LinkedIn → </a>
 <p align="left">
-  
+  <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,django,react,html,css" />
+  </a>
+</p>
+
   <a href="https://github.com/kelseylemmer">
     <img src="https://komarev.com/ghpvc/?username=kelseylemmer" alt="page views">
   </a>
