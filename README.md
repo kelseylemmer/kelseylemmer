@@ -1,7 +1,7 @@
 <h1 align="left" id="macropower-title"> 🏁 Hiii! I'm Kelsey</h1>
 
 <a href="kelsey-title">
-  <img src="./B090F692-28E5-4A7D-9CF3-299F0F941D45.jpeg" alt="kelseylemmer" align="right" width="347" height="347"/>
+  <img src="./B090F692-28E5-4A7D-9CF3-299F0F941D45.jpeg" alt="kelseylemmer" align="right" width="355" height="355"/>
 </a>
 
 ### Im currently... <br>
