@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title"> ✨ Hiii! I'm Kelsey</h1>
+<h1 align="left" id="macropower-title"> 🏁 Hiii! I'm Kelsey</h1>
 
 <a href="kelsey-title">
   <img src="./B090F692-28E5-4A7D-9CF3-299F0F941D45.jpeg" alt="kelseylemmer" align="right" width="400" height="400"/>
@@ -11,7 +11,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### ✨ A little more about me...  
 
 ```ruby
 CONST KELSEY = {
