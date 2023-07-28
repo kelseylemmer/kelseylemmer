@@ -12,7 +12,7 @@
 </p>
 
 <a href="#dereknguyen269-title">
-  <img src="cutie.jpg" alt="kelseylemmer" align="right" />
+  <img src="/cutie.jpg" alt="kelseylemmer" align="right" />
 </a>
 
 - 🏠 I’m currently living in Bradenton, Florida
