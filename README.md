@@ -12,7 +12,7 @@
 </p>
 
 <a href="#dereknguyen269-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true" alt="kelseylemmer" align="right" />
+  <img src="/cutie.heic" alt="kelseylemmer" align="right" />
 </a>
 
 - 🏠 I’m currently living in Bradenton, Florida
