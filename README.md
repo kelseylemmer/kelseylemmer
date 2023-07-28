@@ -1,10 +1,10 @@
 <h1 align="left" id="macropower-title">👋 Hiii! I'm Kelsey</h1>
 <p align="left">
-  <a href="https://github.com/dereknguyen269">
+  <a href="https://github.com/kelseylemmer">
     <img src="https://komarev.com/ghpvc/?username=kelseylemmer" alt="page views">
   </a>
-  <a href="https://github.com/dereknguyen269?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kelseulemmer?color=green&logo=github">
+  <a href="https://github.com/kelseylemmer?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kelseylemmer?color=green&logo=github">
   </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
@@ -15,11 +15,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true" alt="dereknguyen269" align="right" />
 </a>
 
-- 🏠 I’m currently living at HCM City, Vietnam 🇻🇳.
-- 👨‍💻 I’m currently working as a Software Engineer.
-- 🔭 I’m currently working on my pet projects.
-- 🎮 I love Dota 2.
-- ☕️ I’m coffeer.
+- 🏠 I’m currently living in Bradenton, Florida
+- 👨‍💻 I’m currently obtaining my certification from Nashville Software School.
+- 🔭 I’m currently working on growing my server side knowledge.
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
