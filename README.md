@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<a href="#dereknguyen269-title">
+<a href="kelsey-title">
   <img src="/cutie.jpg" alt="kelseylemmer" align="right" />
 </a>
 
