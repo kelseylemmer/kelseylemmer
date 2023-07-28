@@ -12,7 +12,7 @@
 </p>
 
 <a href="kelsey-title">
-  <img src="./cutie.jpg" alt="kelseylemmer" align="right" />
+  <img src="./B090F692-28E5-4A7D-9CF3-299F0F941D45.jpeg" alt="kelseylemmer" align="right" />
 </a>
 
 - 🏠 I’m currently living in Bradenton, Florida
