@@ -1,10 +1,10 @@
 <h1 align="left" id="macropower-title">👋 Hiii! I'm Kelsey</h1>
 <p align="left">
   <a href="https://github.com/dereknguyen269">
-    <img src="https://komarev.com/ghpvc/?username=dereknguyen269" alt="page views">
+    <img src="https://komarev.com/ghpvc/?username=kelseylemmer" alt="page views">
   </a>
   <a href="https://github.com/dereknguyen269?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dereknguyen269?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kelseulemmer?color=green&logo=github">
   </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
