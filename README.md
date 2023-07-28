@@ -4,7 +4,7 @@
   <img src="./B090F692-28E5-4A7D-9CF3-299F0F941D45.jpeg" alt="kelseylemmer" align="right" width="400" height="400"/>
 </a>
 
-IM CURRENTLY... <br>
+IM CURRENTLY... <br><br>
 🍊 living in Bradenton, Florida <br>
 👩🏻‍💻 obtaining my certification from Nashville Software School <br>
 🌐 working on growing my server side knowledge
@@ -25,7 +25,9 @@ CONST KELSEY = {
 
 
 ---
+🔗 <a href="url">LinkedIn → </a>
 <p align="left">
+  
   <a href="https://github.com/kelseylemmer">
     <img src="https://komarev.com/ghpvc/?username=kelseylemmer" alt="page views">
   </a>
