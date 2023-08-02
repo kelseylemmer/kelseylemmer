@@ -43,12 +43,4 @@ CONST KELSEY = {
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,html,css,react,python,django,mysql,sqlite,postman,git" />
   </a>
-</p>
 
-  <a href="https://github.com/kelseylemmer">
-    <img src="https://komarev.com/ghpvc/?username=kelseylemmer" alt="page views">
-  </a>
-  <a href="https://github.com/kelseylemmer?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kelseylemmer?color=green&logo=github">
-  </a>
-</p>
