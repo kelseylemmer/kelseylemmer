@@ -38,10 +38,10 @@ CONST KELSEY = {
 
 
 ---
-🔗 <a href="https://www.linkedin.com/in/kelsey-lemmer" target="_blank">LinkedIn → </a>
 <p align="left">
   <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,html,css,react,python,django,mysql,sqlite,postman,git" />
   </a>
+  🔗 <a href="https://www.linkedin.com/in/kelsey-lemmer" target="_blank">LinkedIn → </a>
 
