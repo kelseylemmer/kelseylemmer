@@ -29,7 +29,7 @@ CONST KELSEY = {
 <p align="left">
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,py,html,css,django,react,postman,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,python,django,postman,git" />
   </a>
 </p>
 
