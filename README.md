@@ -30,7 +30,7 @@ CONST KELSEY = {
     <li> Reality TV </li>
     <li> Astrology </li>
     <li> My pet chihuahua, Chris </li>
-    <li> New adventures </li>
+    <li> Camping </li>
 </div> 
 </details>
 
