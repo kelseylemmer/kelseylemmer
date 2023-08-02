@@ -23,6 +23,17 @@ CONST KELSEY = {
 }
 ```
 
+<details> 
+<summary> Just For Fun </summary>
+<div>
+  <h2> I enjoy: </h2> 
+    <li> Reality TV </li>
+    <li> Astrology </li>
+    <li> My pet chihuahua, Chris </li>
+    <li> New adventures </li>
+</div> 
+</details>
+
 
 ---
 🔗 <a href="https://www.linkedin.com/in/kelsey-lemmer" target="_blank">LinkedIn → </a>
