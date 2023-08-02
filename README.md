@@ -7,7 +7,8 @@
 ### Im currently... <br>
 🍊 living in Bradenton, Florida <br>
 👩🏻‍💻 obtaining my certification from Nashville Software School <br>
-🌐 working on growing my server side knowledge
+🌐 working on growing my server side knowledge <br>
+💞 finding fulfillment through discussing code with peers
 
 
 
