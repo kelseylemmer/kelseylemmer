@@ -26,11 +26,12 @@ CONST KELSEY = {
 <details> 
 <summary> Just For Fun </summary>
 <div>
-  <h2> I enjoy: </h2> 
+  <h2> I love: </h2> 
+    <li> My pet chihuahua, Chris </li>
     <li> Reality TV </li>
     <li> Astrology </li>
-    <li> My pet chihuahua, Chris </li>
     <li> Camping </li>
+    <li> Breakfast food </li>
 </div> 
 </details>
 
