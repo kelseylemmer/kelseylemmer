@@ -15,7 +15,7 @@
 
 ```ruby
 CONST KELSEY = {
-  pronouns: "She" | "her",
+  pronouns: "She" | "Her",
   backend: ["Python", "Django"],
   frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
   database: ["mySQL"],
