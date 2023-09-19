@@ -5,7 +5,7 @@
 </a>
 
 ### Im currently... <br>
-🍊 living in Bradenton, Florida <br>
+🤠 living in Nashville, Tennessee <br>
 👩🏻‍💻 obtaining my certification from Nashville Software School <br>
 🌐 working on my final full stack capstone project <br>
 💞 finding fulfillment through discussing code with peers
