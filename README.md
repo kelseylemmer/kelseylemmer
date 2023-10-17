@@ -6,8 +6,9 @@
 
 ### Im currently... <br>
 🤠 living in Nashville, Tennessee <br>
-👩🏻‍💻 obtaining my certification from Nashville Software School <br>
-🌐 working on my final full stack capstone project <br>
+👩🏻‍💻 just obtained my certification from Nashville Software School!<br>
+🌐 working at Raise Financial ![image](https://github.com/kelseylemmer/kelseylemmer/assets/116584777/2f68402a-ce48-4890-ac33-f8b2ba3b982f)
+ <br>
 💞 finding fulfillment through discussing code with peers
 
 
