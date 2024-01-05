@@ -6,20 +6,6 @@
 🐖 working at Raise Financial <br>
 💞 finding fulfillment through discussing code with peers
 
-
-
-### ✨ A little more about me...  
-
-```ruby
-CONST KELSEY = {
-  pronouns: "She" | "Her",
-  backend: ["Python", "Django"],
-  frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
-  database: ["mySQL"],
-  challenge: "Learning new skills every day!"
-}
-```
-
 <details> 
 <summary> Just For Fun </summary>
 <div>
@@ -37,7 +23,7 @@ CONST KELSEY = {
 <p align="left">
   <p>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,python,django,mysql,sqlite,postman,git" />
+    <img src="https://skillicons.dev/icons?i=css,django,git,html,javascript,mysql,postman,python,react,sqlite" />
   </a>
  <br><br>
   🔗 <a href="https://www.linkedin.com/in/kelsey-lemmer" target="_blank">LinkedIn → </a>
