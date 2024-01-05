@@ -23,7 +23,7 @@
 <p align="left">
   <p>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,git,html,postman,javascript,django,css,ts,sqlite,prisma,python,reactmysql,nextjs" />
+    <img src="https://skillicons.dev/icons?i=jest,git,html,postman,javascript,django,css,ts,sqlite,prisma,python,react,mysql,nextjs" />
   </a>
  <br><br>
   🔗 <a href="https://www.linkedin.com/in/kelsey-lemmer" target="_blank">LinkedIn → </a>
